@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/MainLevel/MainLevel.umap",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/_GENERATED/mstratton/CubeGridToolOutput_68F5E609.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/Assets/Textures/Brick/MainLevel.umap",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/MainLevel/_GENERATED/mstratton/Box_9A97D301.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/Assets/Textures/Brick/uploads_files_804233_Wall_Brick_ao.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/Assets/Textures/Brick/uploads_files_804233_Wall_Brick_BaseColor.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/Assets/Textures/Brick/uploads_files_804233_Wall_Brick_Roughness.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/Assets/Textures/Brick/uploads_files_804233_Wall_Brick_height.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/MainLevel/_GENERATED/mstratton/Box_4D5EDB86.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/MainLevel/_GENERATED/mstratton/Box_8EC1739C.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/Unreal Projects/WyldwoodWanderer/Content/WyldWoodWanderer/Assets/Textures/Brick/uploads_files_804233_Wall_Brick_BaseColor_Mat.uasset"
+			]
+		}
+	]
+}
