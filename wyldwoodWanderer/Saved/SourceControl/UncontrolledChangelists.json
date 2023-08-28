@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/MainLevel/MainLevel.umap"
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/MainLevel/MainLevel.umap",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Meshes/Trees/PineTree_2.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Meshes/Trees/PineTree_3.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Meshes/Trees/PineTree_4.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Meshes/Trees/PineTree_5.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Meshes/Trees/PineTree_1.uasset"
 			]
 		}
 	]
