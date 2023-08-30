@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/MainLevel/MainLevel.umap",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Props/Chest.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Props/Plane.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Props/NicolasSnail.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Props/FbxScene_Chest.uasset",
+				"C:/Users/mstratton/OneDrive - Neumont College of Computer Science/Documents/GitHub/wyldewoodWanderer/wyldwoodWanderer/Content/WyldWoodWanderer/Assets/Props/Gold_Lock_Material.uasset",
 				"C:/Users/tjohnson/OneDrive - Neumont College of Computer Science/Desktop/wyldewoodWanderer/wyldwoodWanderer/Content/Characters/SK_Main_Character/Animations/Anim_Idle.uasset",
 				"C:/Users/tjohnson/OneDrive - Neumont College of Computer Science/Desktop/wyldewoodWanderer/wyldwoodWanderer/Content/Characters/SK_Main_Character/Animations/Anim_Idle_Attack.uasset",
 				"C:/Users/tjohnson/OneDrive - Neumont College of Computer Science/Desktop/wyldewoodWanderer/wyldwoodWanderer/Content/Characters/SK_Main_Character/Animations/Anim_Attack.uasset",
